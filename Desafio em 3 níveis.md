@@ -51,8 +51,7 @@ Regras:
 
 ### 🔴 Alto
 Adicione:
-- Se for após 22h, ninguém pode entrar  
-- Receba também a hora atual  
+- Se for após 22h, ninguém pode entrar   
 
 👉 Priorize corretamente as regras.
 
