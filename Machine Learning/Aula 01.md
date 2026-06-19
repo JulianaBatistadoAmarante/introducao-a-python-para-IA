@@ -1,7 +1,9 @@
 # Aula 01 – Introdução ao Machine Learning (ML)
 
 **Carga horária:** 4 horas
+
 **Público-alvo:** Iniciantes em Machine Learning
+
 **Pré-requisitos:** Lógica de programação e Python básico
 
 ---
